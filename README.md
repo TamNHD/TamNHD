@@ -1,15 +1,9 @@
 # Nguyen Hoang Duc Tam
 
 Student developer at Posts and Telecommunications Institute of Technology (PTIT), Hanoi, Vietnam.
-
-Interested in competitive programming, developer tooling, and AI-assisted development.
-
-### Projects
-
-- **[codePTIT++](https://github.com/TamNHD/codePTITplusplus)** — browser extension that improves the CodePTIT experience for PTIT students.
-- **[oj28Tech_DMOJ](https://github.com/TamNHD/oj28Tech_DMOJ)** — integrates the 28Tech online judge with Competitive Companion.
-- **[khi-ai-viet-code](https://github.com/TamNHD/khi-ai-viet-code)** — presentation: "When AI writes code".
+Building web & desktop apps, dev tools, and dabbling in reverse-engineering & iOS research - mostly with AI by my side.
 
 ### Contact
 
-- GitHub: [@TamNHD](https://github.com/TamNHD)
+- Email: tamnguyenhoangduc [at] gmail [dot] com
+- Telegram: [@TamNHD](https://t.me/TamNHD)
