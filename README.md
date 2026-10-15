@@ -1,10 +1,12 @@
 # Nguyen Hoang Duc Tam
 
-Student developer at Posts and Telecommunications Institute of Technology (PTIT), Hanoi, Vietnam.
+Second-year undergraduate pursuing a B.Eng. in Information Technology at the Posts and Telecommunications Institute of Technology (PTIT), Hanoi, Vietnam.
 
-Building web & desktop apps, dev tools, and dabbling in reverse-engineering & iOS research - mostly with AI by my side.
+## About
 
-### Contact
+I build web and desktop applications and developer tools, with a growing interest in reverse engineering and iOS security research. I use AI-assisted workflows extensively in my development process.
+
+## Contact
 
 - Email: tamnguyenhoangduc [at] gmail [dot] com
 - Telegram: [@TamNHD](https://t.me/TamNHD)
